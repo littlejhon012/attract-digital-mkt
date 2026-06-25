@@ -21,7 +21,7 @@ export function Footer() {
               Mentoria e consultoria especializada em marketing digital. Transformamos a experiência do seu cliente desde o primeiro clique.
             </p>
             <div className="flex gap-4">
-              <a href="#" className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-white/20 hover:text-white transition-colors text-slate-400">
+              <a href="https://www.instagram.com/attractadigitalmkt/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-white/20 hover:text-white transition-colors text-slate-400">
                 <Instagram size={14} />
               </a>
               <a href="#" className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center hover:bg-white/20 hover:text-white transition-colors text-slate-400">
@@ -58,7 +58,7 @@ export function Footer() {
                 <MessageCircle size={16} className="text-[#38bdf8] shrink-0 mt-0.5" />
                 <div>
                   <p className="font-medium text-white mb-1">WhatsApp</p>
-                  <a href="https://wa.me/5511999999999" className="hover:text-[#38bdf8] transition-colors">+55 (11) 99999-9999</a>
+                  <a href="https://wa.me/5511971211201" className="hover:text-[#38bdf8] transition-colors">+55 (11) 97121-1201</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">

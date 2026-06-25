@@ -72,7 +72,7 @@ export function Services() {
                 </p>
               </div>
               
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-xs font-semibold text-slate-300 group-hover:text-white transition-colors underline underline-offset-4 decoration-white/30 group-hover:decoration-white">
+              <a href="https://wa.me/5511971211201" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-xs font-semibold text-slate-300 group-hover:text-white transition-colors underline underline-offset-4 decoration-white/30 group-hover:decoration-white">
                 Saiba mais
               </a>
             </motion.div>
@@ -90,7 +90,7 @@ export function Services() {
               <h4 className="text-xl font-bold text-white mb-4">Precisa de um projeto personalizado?</h4>
               <p className="text-sm text-slate-300 font-sans mb-8">Nossa equipe de especialistas está pronta para ouvir você e desenhar a estratégia ideal.</p>
               <a 
-                href="https://wa.me/5511999999999" 
+                href="https://wa.me/5511971211201" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white text-black px-6 py-2.5 rounded-full font-semibold text-sm hover:bg-gray-100 transition-colors shadow-[0_10px_20px_rgba(0,0,0,0.2)]"

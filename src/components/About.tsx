@@ -81,7 +81,7 @@ export function About() {
             
             <div className="mt-10">
               <a 
-                href="https://wa.me/5511999999999" 
+                href="https://wa.me/5511971211201" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 text-white font-medium hover:text-[#38bdf8] transition-colors group"

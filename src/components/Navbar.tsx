@@ -30,7 +30,7 @@ export function Navbar() {
             <a href="#depoimentos" className="text-slate-300 hover:text-white transition-colors font-medium text-sm">Depoimentos</a>
             
             <a 
-              href="https://wa.me/5511999999999" 
+              href="https://wa.me/5511971211201" 
               target="_blank" 
               rel="noopener noreferrer"
               className="group flex items-center gap-2 bg-white hover:bg-gray-100 text-black px-6 py-2.5 rounded-full font-semibold transition-all duration-300 shadow-[0_10px_20px_rgba(0,0,0,0.2)]"
@@ -68,7 +68,7 @@ export function Navbar() {
             
             <div className="px-3 pt-4">
               <a 
-                href="https://wa.me/5511999999999" 
+                href="https://wa.me/5511971211201" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 w-full bg-white text-black px-5 py-3 rounded-full font-semibold shadow-[0_10px_20px_rgba(0,0,0,0.2)]"

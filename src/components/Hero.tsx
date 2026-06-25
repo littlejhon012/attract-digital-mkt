@@ -36,7 +36,7 @@ export function Hero() {
             
             <div className="flex flex-col sm:flex-row gap-4">
               <a 
-                href="https://wa.me/5511999999999" 
+                href="https://wa.me/5511971211201" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex items-center justify-center gap-3 bg-white hover:bg-gray-100 text-black px-8 py-4 rounded-full font-semibold text-lg transition-all duration-300 shadow-[0_10px_20px_rgba(0,0,0,0.2)]"

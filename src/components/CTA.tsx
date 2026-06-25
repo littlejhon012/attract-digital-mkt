@@ -39,7 +39,7 @@ export function CTA() {
               className="lg:w-1/3 flex justify-center lg:justify-end shrink-0"
             >
               <a 
-                href="https://wa.me/5511999999999" 
+                href="https://wa.me/5511971211201" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex flex-col items-center gap-3"
