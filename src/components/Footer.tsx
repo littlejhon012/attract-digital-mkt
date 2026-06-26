@@ -65,7 +65,7 @@ export function Footer() {
                 <Mail size={16} className="text-[#38bdf8] shrink-0 mt-0.5" />
                 <div>
                   <p className="font-medium text-white mb-1">E-mail</p>
-                  <a href="mailto:contato@attractamkt.com" className="hover:text-[#38bdf8] transition-colors">contato@attractamkt.com</a>
+                  <a href="mailto:joao@attractamkt.com.br" className="hover:text-[#38bdf8] transition-colors">joao@attractamkt.com.br</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">

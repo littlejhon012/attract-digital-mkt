@@ -2,7 +2,7 @@ import { motion } from 'motion/react';
 
 const projects = [
   {
-    image: "https://images.unsplash.com/photo-1540331547168-8b63109225b7?q=80&w=2819&auto=format&fit=crop",
+    image: "https://fabricadeartigos.com.br/wp-content/uploads/2022/01/Perfil-de-Negocio-do-Google-O-que-muda-para-as-empresas.jpg",
     title: "Otimização de Reservas",
     category: "Google Perfil & Mentoria"
   },
@@ -12,12 +12,12 @@ const projects = [
     category: "Consultoria Especializada"
   },
   {
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?q=80&w=2940&auto=format&fit=crop",
+    image: "https://i.pinimg.com/736x/4b/f5/03/4bf5031c82b7d9e55fac5ca5d03858a5.jpg",
     title: "Experiência Omnichannel",
     category: "WhatsApp Comercial"
   },
   {
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?q=80&w=2874&auto=format&fit=crop",
+    image: "https://i.pinimg.com/736x/49/1a/6e/491a6ee83ab96aff86b923c779e4f732.jpg",
     title: "Engajamento Visual",
     category: "Instagram & IA"
   }
